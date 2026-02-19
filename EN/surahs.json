@@ -1,6 +1,6 @@
 {
-  "reciter": "afs",
-  "base_url": "https://server8.mp3quran.net/afs/",
+  "reciter": "en",
+  "base_url": "https://masjidtaqwa.org/quran/en/",
   "total_surahs": 114,
   "surahs": [
     { "number": 1, "title": "Surat Al-Fatihah", "audio": "001.mp3" },
