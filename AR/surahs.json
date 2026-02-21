@@ -1,6 +1,5 @@
 {
   "provider": "mp3quran",
-  "reciter": "afs",
   "base_url": "https://server8.mp3quran.net/afs/",
   "total_surahs": 114,
   "surahs": [
