@@ -1,0 +1,62 @@
+{
+  "provider": "alqurans",
+  "total_waz": "example",
+  "waz": [
+    {
+      "speaker": "Hafizur Rahman Siddiki",
+      "waz_list": [
+        { "title": "Waz 1", "link": "URL_1" },
+        { "title": "Waz 2", "link": "URL_2" },
+        { "title": "Waz 3", "link": "URL_3" }
+      ]
+    },
+    {
+      "speaker": "Habibur Rahman Misbah",
+      "waz_list": [
+        { "title": "Waz 1", "link": "URL_1" },
+        { "title": "Waz 2", "link": "URL_2" },
+        { "title": "Waz 3", "link": "URL_3" }
+      ]
+    },
+    {
+      "speaker": "Golam Robbani Juktibadi",
+      "waz_list": [
+        { "title": "Waz 1", "link": "URL_1" },
+        { "title": "Waz 2", "link": "URL_2" },
+        { "title": "Waz 3", "link": "URL_3" }
+      ]
+    },
+    {
+      "speaker": "Amirul Islam Belali",
+      "waz_list": [
+        { "title": "Waz 1", "link": "URL_1" },
+        { "title": "Waz 2", "link": "URL_2" },
+        { "title": "Waz 3", "link": "URL_3" }
+      ]
+    },
+    {
+      "speaker": "Nurul Islam Olipuri",
+      "waz_list": [
+        { "title": "Waz 1", "link": "URL_1" },
+        { "title": "Waz 2", "link": "URL_2" },
+        { "title": "Waz 3", "link": "URL_3" }
+      ]
+    },
+    {
+      "speaker": "Nasir Uddin Juktibadi",
+      "waz_list": [
+        { "title": "Waz 1", "link": "URL_1" },
+        { "title": "Waz 2", "link": "URL_2" },
+        { "title": "Waz 3", "link": "URL_3" }
+      ]
+    },
+    {
+      "speaker": "Dr Ashraf Siddiqui",
+      "waz_list": [
+        { "title": "Waz 1", "link": "URL_1" },
+        { "title": "Waz 2", "link": "URL_2" },
+        { "title": "Waz 3", "link": "URL_3" }
+      ]
+    }
+  ]
+}
