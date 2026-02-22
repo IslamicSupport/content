@@ -1,61 +1,168 @@
 {
   "provider": "alqurans",
-  "total_waz": "example",
+  "base_url": "https://alqurans.com/waz",
+  "total_speakers": 18,
   "waz": [
     {
+      "serial": 1,
+      "speaker": "Mizanur Rahman Azhari",
+      "waz_list": [
+        { "title": "Kemon Kore Sontan Manush Korben", "link": "/azhari/Kemon_Kore_Sontan_Manush_Korben_By_Mizanur_Rahman-ALQURANS.COM.mp3" },
+        { "title": "Happy Dampati 21 Jan 2020 Nilphamari", "link": "/azhari/Happy_Dampati_Nilphamari_By_Mizanur_Rahman-ALQURANS.COM.mp3" },
+        { "title": "/azhari/Sahabider_Jiboni_17_Jan_2020_Faridabad_By_Mizanur_Rahman-ALQURANS.COM.mp3" }
+      ]
+    },
+    {
+      "serial": 2,
+      "speaker": "Delwar Hossain Sayeedi",
+      "waz_list": [
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
+      ]
+    },
+    {
+      "serial": 3,
+      "speaker": "Tareq Monoar",
+      "waz_list": [
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
+      ]
+    },
+    {
+      "serial": 4,
+      "speaker": "Abu Toha Muhammad Adnan",
+      "waz_list": [
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
+      ]
+    },
+    {
+      "serial": 5,
+      "speaker": "Jubaer Ahmed Ansari",
+      "waz_list": [
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
+      ]
+    },
+    {
+      "serial": 6,
+      "speaker": "Tofazzol Hossain",
+      "waz_list": [
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
+      ]
+    },
+    {
+      "serial": 7,
+      "speaker": "Abdul Khalek Soriotpuri",
+      "waz_list": [
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
+      ]
+    },
+    {
+      "serial": 8,
+      "speaker": "Amir Hamza",
+      "waz_list": [
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
+      ]
+    },
+    {
+      "serial": 9,
+      "speaker": "Khaled Saifullah Ayubi",
+      "waz_list": [
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
+      ]
+    },
+    {
+      "serial": 10,
+      "speaker": "Rezaul Karim Kawsari",
+      "waz_list": [
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
+      ]
+    },
+    {
+      "serial": 11,
+      "speaker": "Bazlur Rashid",
+      "waz_list": [
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
+      ]
+    },
+    {
+      "serial": 12,
       "speaker": "Hafizur Rahman Siddiki",
       "waz_list": [
-        { "title": "Kemon Kore Sontan Manush Korben", "link": "https://alqurans.com/waz/azhari/Kemon_Kore_Sontan_Manush_Korben_By_Mizanur_Rahman-ALQURANS.COM.mp3" },
-        { "title": "Happy Dampati 21 Jan 2020 Nilphamari", "link": "https://alqurans.com/waz/azhari/Happy_Dampati_Nilphamari_By_Mizanur_Rahman-ALQURANS.COM.mp3" },
-        { "title": "Sahabider Jiboni 17 Jan 2020 Faridabad", "link": "https://alqurans.com/waz/azhari/Sahabider_Jiboni_17_Jan_2020_Faridabad_By_Mizanur_Rahman-ALQURANS.COM.mp3" }
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
       ]
     },
     {
+      "serial": 13,
       "speaker": "Habibur Rahman Misbah",
       "waz_list": [
-        { "title": "Waz 1", "link": "URL_1" },
-        { "title": "Waz 2", "link": "URL_2" },
-        { "title": "Waz 3", "link": "URL_3" }
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
       ]
     },
     {
+      "serial": 14,
       "speaker": "Golam Robbani Juktibadi",
       "waz_list": [
-        { "title": "Waz 1", "link": "URL_1" },
-        { "title": "Waz 2", "link": "URL_2" },
-        { "title": "Waz 3", "link": "URL_3" }
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
       ]
     },
     {
+      "serial": 15,
       "speaker": "Amirul Islam Belali",
       "waz_list": [
-        { "title": "Waz 1", "link": "URL_1" },
-        { "title": "Waz 2", "link": "URL_2" },
-        { "title": "Waz 3", "link": "URL_3" }
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
       ]
     },
     {
+      "serial": 16,
       "speaker": "Nurul Islam Olipuri",
       "waz_list": [
-        { "title": "Waz 1", "link": "URL_1" },
-        { "title": "Waz 2", "link": "URL_2" },
-        { "title": "Waz 3", "link": "URL_3" }
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
       ]
     },
     {
+      "serial": 17,
       "speaker": "Nasir Uddin Juktibadi",
       "waz_list": [
-        { "title": "Waz 1", "link": "URL_1" },
-        { "title": "Waz 2", "link": "URL_2" },
-        { "title": "Waz 3", "link": "URL_3" }
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
       ]
     },
     {
+      "serial": 18,
       "speaker": "Dr Ashraf Siddiqui",
       "waz_list": [
-        { "title": "Waz 1", "link": "URL_1" },
-        { "title": "Waz 2", "link": "URL_2" },
-        { "title": "Waz 3", "link": "URL_3" }
+        { "title": "Example_Waz_1", "link": "URL_1" },
+        { "title": "Example_Waz_2", "link": "URL_2" },
+        { "title": "Example_Waz_3", "link": "URL_3" }
       ]
     }
   ]
