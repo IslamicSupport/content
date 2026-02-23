@@ -1,0 +1,9 @@
+{
+  "provider": "jukehost",
+  "base_url": "https://audio.jukehost.co.uk/",
+  "total_songs": 2,
+  "songs": [
+    { "number": 1, "title": "25 Prophets in the Quran", "audio": "ozO1KF7p5WVPb67wiJxqqN0xceQ4J2dV" },
+    { "number": 2, "title": "ALLAH SAYS, THIS IS THE BEST STORY IN THE QURAN", "audio": "DIUL94jmCL3ieiD3YmSNnWnT1UEjHNkn" }
+  ]
+}
