@@ -1,0 +1,10 @@
+{
+  "provider": "jukehost",
+  "base_url": "https://audio.jukehost.co.uk/",
+  "total_songs": 3,
+  "songs": [
+    { "number": 1, "title": "Khoma Kore Dao", "audio": "5DkjULRAqw3PiCjDKuMKHIqdmh0NgHBN" },
+    { "number": 2, "title": "Tumi Chara Kew Nei", "audio": "nnZfOIjJSiwH96yZSSxCk5oYvxQU3VVg" },
+    { "number": 3, "title": "Tribhuboner Priyo Muhammad", "audio": "FIQpGiM6qeudVX71g7WJ8YUTlidLfr7b" }
+  ]
+}
