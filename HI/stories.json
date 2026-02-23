@@ -1,0 +1,9 @@
+{
+  "provider": "jukehost",
+  "base_url": "https://audio.jukehost.co.uk/",
+  "total_songs": 2,
+  "songs": [
+    { "number": 1, "title": "Takdeer Dolat Se Nahi Dua Se Badalti Hai", "audio": "MpUXJbhKErYX7gLAL0LZhCBPfG3DRwSo" },
+    { "number": 2, "title": "The true story of the marriage of Hazrat Musa (AS)", "audio": "1FP4ygfG88p60jKFtMMKG2JvlzLxFfiE" }
+  ]
+}
