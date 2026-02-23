@@ -1,6 +1,6 @@
 {
   "provider": "alqurans",
-  "base_url": "https://alqurans.com/waz",
+  "default_base_url": "https://alqurans.com/waz",
   "total_speakers": 18,
   "waz": [
     {
@@ -33,10 +33,11 @@
     {
       "serial": 4,
       "speaker": "Abu Toha Muhammad Adnan",
+      "base_url": "https://alqurans.net/files/waz",
       "waz_list": [
-        { "title": "Example_Waz_1", "link": "URL_1" },
-        { "title": "Example_Waz_2", "link": "URL_2" },
-        { "title": "Example_Waz_3", "link": "URL_3" }
+        { "title": "Rasul (Saw) er Jiboni", "link": "/abu-toha/Rasul-Saw-er-Jiboni-ALQURANS.COM.mp3" },
+        { "title": "Dajjal", "link": "/abu-toha/Dajjal-ALQURANS.COM.mp3" },
+        { "title": "Historical Lecture on Women", "link": "/abu-toha/Historical-Lectures-on-Women-ALQURANS.COM.mp3" }
       ]
     },
     {
