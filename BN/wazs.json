@@ -44,27 +44,27 @@
       "serial": 5,
       "speaker": "Jubaer Ahmed Ansari",
       "waz_list": [
-        { "title": "Example_Waz_1", "link": "URL_1" },
-        { "title": "Example_Waz_2", "link": "URL_2" },
-        { "title": "Example_Waz_3", "link": "URL_3" }
+        { "title": "Allah Er Porichoy", "link": "/ansari/Allah_Er_Porichoy_By_Ansari-ALQURANS.COM.mp3" },
+        { "title": "Amanot Dhari", "link": "/ansari/Amanot_Dhari_By_Ansari-ALQURANS.COM.mp3" },
+        { "title": "Bortomane Muslimder Karonio", "link": "/ansari/Bortomane_Muslimder_Karonio_By_Ansari-ALQURANS.COM.mp3" }
       ]
     },
     {
       "serial": 6,
       "speaker": "Tofazzol Hossain",
       "waz_list": [
-        { "title": "Example_Waz_1", "link": "URL_1" },
-        { "title": "Example_Waz_2", "link": "URL_2" },
-        { "title": "Example_Waz_3", "link": "URL_3" }
+        { "title": "Koborer Ajab", "link": "/tofazzol/Koborer_Ajab_By_Tofazzal_Hossain-ALQURANS.COM.mp3" },
+        { "title": "Abdul Kader Jilanir Jiboni", "link": "/tofazzol/Abdul_Kader_Jilani_By_Tofazzal_Hossain-ALQURANS.COM.mp3" },
+        { "title": "Abu Jeheler Porinoti", "link": "/tofazzol/Abu_Jeheler_Porinoti_By_Tofazzal_Hossain-ALQURANS.COM.mp3" }
       ]
     },
     {
       "serial": 7,
       "speaker": "Abdul Khalek Soriotpuri",
       "waz_list": [
-        { "title": "Example_Waz_1", "link": "URL_1" },
-        { "title": "Example_Waz_2", "link": "URL_2" },
-        { "title": "Example_Waz_3", "link": "URL_3" }
+        { "title": "Jannate Jawar Sohoj Upay", "link": "/soriotpuri/Jannate_Jawar_Sohoj_Upay_By_Abdul_Khalek_Soriotpuri-ALQURANS.COM.mp3" },
+        { "title": "Akhirat", "link": "/soriotpuri/Akhirat_By_Abdul_Khalek_Soriotpuri-ALQURANS.COM.mp3" },
+        { "title": "Kalbalar Koster Kahini", "link": "/soriotpuri/Kalbalar_Koster_Kahini_By_Abdul_Khalek_Soriotpuri-ALQURANS.COM.mp3" }
       ]
     },
     {
