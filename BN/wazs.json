@@ -125,45 +125,45 @@
       "serial": 14,
       "speaker": "Golam Robbani Juktibadi",
       "waz_list": [
-        { "title": "Example_Waz_1", "link": "URL_1" },
-        { "title": "Example_Waz_2", "link": "URL_2" },
-        { "title": "Example_Waz_3", "link": "URL_3" }
+        { "title": "Digital Boktar Digital Waz", "link": "/rabbani/Digital_Boktar_Digital_Waz_By_Golam_Rabbani-ALQURANS.COM.mp3" },
+        { "title": "Narail", "link": "/rabbani/Narail_9_Feb_2020_By_Golam_Rabbani-ALQURANS.COM.mp3" },
+        { "title": "Gavir Ghotona", "link": "/rabbani/Gavir_Ghotona_By_Golam_Rabbani-ALQURANS.COM.mp3" }
       ]
     },
     {
       "serial": 15,
       "speaker": "Amirul Islam Belali",
       "waz_list": [
-        { "title": "Example_Waz_1", "link": "URL_1" },
-        { "title": "Example_Waz_2", "link": "URL_2" },
-        { "title": "Example_Waz_3", "link": "URL_3" }
+        { "title": "Mohan Allahr Adesh Nished", "link": "/belali/Mohan_Allahr_Adesh_Nished_Er_Gurutto_By_Amirul_Islam_Belali-ALQURANS.COM.mp3" },
+        { "title": "Allahr Ain O Sirk", "link": "/belali/Allahr_Ain_O_Sirk_By_Amirul_Islam_Belali-ALQURANS.COM.mp3" },
+        { "title": "Varoter Golami Are Koto Din", "link": "/belali/Varoter_Golami_Are_Koto_Din_By_Amirul_Islam_Belali-ALQURANS.COM.mp3" }
       ]
     },
     {
       "serial": 16,
       "speaker": "Nurul Islam Olipuri",
       "waz_list": [
-        { "title": "Example_Waz_1", "link": "URL_1" },
-        { "title": "Example_Waz_2", "link": "URL_2" },
-        { "title": "Example_Waz_3", "link": "URL_3" }
+        { "title": "Iblish Soitaner Itihas", "link": "/olipuri/Iblish_Soitaner_Itihas_24_Jan_2020_By_Nurul_Islam_Olipuri-ALQURANS.COM.mp3" },
+        { "title": "Nobijir Jiboni", "link": "/olipuri/Nobijir_Jiboni_By_Nurul_Islam_Olipuri-ALQURANS.COM.mp3" },
+        { "title": "Bibi Moriom Er Jiboni", "link": "/olipuri/Bibi_Moriom_Er_Jiboni_By_Nurul_Islam_Olipuri-ALQURANS.COM.mp3" }
       ]
     },
     {
       "serial": 17,
       "speaker": "Nasir Uddin Juktibadi",
       "waz_list": [
-        { "title": "Example_Waz_1", "link": "URL_1" },
-        { "title": "Example_Waz_2", "link": "URL_2" },
-        { "title": "Example_Waz_3", "link": "URL_3" }
+        { "title": "Adorsho Muslim Poribar", "link": "/nasir/Adorsho_Muslim_Poribar_By_Nasir_Uddin-ALQURANS.COM.mp3" },
+        { "title": "Shoytaner Akida Sahih", "link": "/nasir/Shoytaner_Akida_Sahih_By_Nasir_Uddin-ALQURANS.COM.mp3" },
+        { "title": "Hedayeter Poth", "link": "/nasir/Hedayeter_Poth_By_Nasir_Uddin-ALQURANS.COM.mp3" }
       ]
     },
     {
       "serial": 18,
       "speaker": "Dr Ashraf Siddiqui",
       "waz_list": [
-        { "title": "Example_Waz_1", "link": "URL_1" },
-        { "title": "Example_Waz_2", "link": "URL_2" },
-        { "title": "Example_Waz_3", "link": "URL_3" }
+        { "title": "Nobijir Jiboni", "link": "/ashraf/Nobijir_Jiboni_By_Dr_Ashraf_Siddiqui-ALQURANS.COM.mp3" },
+        { "title": "Songsare Santi Feranor Koushal", "link": "/ashraf/Songsare_Santi_Feranor_Koushal_By_Dr_Ashraf_Siddiqui-ALQURANS.COM.mp3" },
+        { "title": "Sustho Thakar Upay", "link": "/ashraf/Sustho_Thakar_Upay_By_Dr_Ashraf_Siddiqui-ALQURANS.COM.mp3" }
       ]
     }
   ]
