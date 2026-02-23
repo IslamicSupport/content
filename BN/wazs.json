@@ -16,18 +16,18 @@
       "serial": 2,
       "speaker": "Delwar Hossain Sayeedi",
       "waz_list": [
-        { "title": "Example_Waz_1", "link": "URL_1" },
-        { "title": "Example_Waz_2", "link": "URL_2" },
-        { "title": "Example_Waz_3", "link": "URL_3" }
+        { "title": "Allah er Neyamot", "link": "/sayeedi/Allah_er_Neyamot_By_Delwar_Hossain_Sayeedi.mp3" },
+        { "title": "Allah er Proti Iman", "link": "/sayeedi/Allah_er_Proti_Iman_By_Delwar_Hossain_Sayeedi.mp3" },
+        { "title": "Allah Paker Didar ba Sakkat", "link": "/sayeedi/Allah_Paker_Didar_ba_Sakkat_B_Delwar_Hossain_Sayeedi.mp3" }
       ]
     },
     {
       "serial": 3,
       "speaker": "Tareq Monoar",
       "waz_list": [
-        { "title": "Example_Waz_1", "link": "URL_1" },
-        { "title": "Example_Waz_2", "link": "URL_2" },
-        { "title": "Example_Waz_3", "link": "URL_3" }
+        { "title": "Jiboner Hotasha Dur Korar Upay", "link": "/monoar/Jiboner_Hotasha_Dur_Korar_Upay_4_Jan_2020_By_Tareq_Monoar-ALQURANS.COM.mp3" },
+        { "title": "Allah Er Ekottobad", "link": "/monoar/Allah_Er_Ekottobad_By_Tareq_Monoar-ALQURANS.COM.mp3" },
+        { "title": "Allah Er Noikotto Laver Upai", "link": "/monoar/Allah_Er_Noikotto_Laver_Upai_By_Tareq_Monoar-ALQURANS.COM.mp3" }
       ]
     },
     {
