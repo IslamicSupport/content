@@ -1,0 +1,10 @@
+{
+  "provider": "jukehost",
+  "base_url": "https://audio.jukehost.co.uk/",
+  "total_songs": 3,
+  "songs": [
+    { "number": 1, "title": "MUSTAFA JAAN E REHMAT | DAROOD O SALAAM", "audio": "sexvMZloRZkq9YFAlaONRpFbSyowGCKu" },
+    { "number": 2, "title": "ILAHI TERI CHAUKHAT", "audio": "zCopCCAYvdDR1qQrlVdIIt1XGamBB4VH" },
+    { "number": 3, "title": "Main To Ummati Hoon", "audio": "YjTlGMLmCU0tHYgZa1ZeuntvGpfjx0Bd" }
+  ]
+}
