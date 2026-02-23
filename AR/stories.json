@@ -1,0 +1,9 @@
+{
+  "provider": "jukehost",
+  "base_url": "https://audio.jukehost.co.uk/",
+  "total_songs": 2,
+  "songs": [
+    { "number": 1, "title": "The incredible story of the conversion to Islam of the greatest military leader in history.", "audio": "egVP0xq77f1RqWoCPtUmEYGeiEn4RU9p" },
+    { "number": 2, "title": "The story of the Prophet Lot (peace be upon him)", "audio": "yzTaMhPl3oPrrsYhNq5YuPqFkbqQwXFC" }
+  ]
+}
