@@ -1,0 +1,9 @@
+{
+  "provider": "jukehost",
+  "base_url": "https://audio.jukehost.co.uk/",
+  "total_songs": 2,
+  "songs": [
+    { "number": 1, "title": "The story of Surah Ikhlas", "audio": "BGd4DzQdwCPzuhXY44vTKUAvMbtvsdpH" },
+    { "number": 2, "title": "He was silent, but Allah was not.", "audio": "iqxc4fDipqagiLRuV5q1VSOcJlWaPysk" }
+  ]
+}
