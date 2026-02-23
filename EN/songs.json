@@ -1,0 +1,10 @@
+{
+  "provider": "jukehost",
+  "base_url": "https://audio.jukehost.co.uk/",
+  "total_songs": 3,
+  "songs": [
+    { "number": 1, "title": "Forgive Me Allah - Astagfirullah - Heart Touching", "audio": "abooj9atri0pCfMoWpsVlQuR7kCw4GXX" },
+    { "number": 2, "title": "Give Thanks To Allah", "audio": "AAdJTDtdMNZHdxgG7hjPOGmgmMFg2mnj" },
+    { "number": 3, "title": "Salam Alaikum", "audio": "edum876xqFpzT9pzDKDI98XY3WqdKJTb" }
+  ]
+}
