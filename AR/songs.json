@@ -1,0 +1,10 @@
+{
+  "provider": "jukehost",
+  "base_url": "https://audio.jukehost.co.uk/",
+  "total_songs": 3,
+  "songs": [
+    { "number": 1, "title": "Habibi Ya Muhammad", "audio": "adXYg0i5PZpqlO1EFsTZ74qrCrgLhjJp" },
+    { "number": 2, "title": "The Way of The Tears", "audio": "7P8OniBqw6THa74wCyOMxJVPpkOg5LEW" },
+    { "number": 3, "title": "Ya Nabi Salam Alayka", "audio": "jhJTrOMAQK0FBRgF7JzIq1TNGVGanlnT" }
+  ]
+}
